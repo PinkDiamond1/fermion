@@ -1,10 +1,12 @@
-# NAME
+# Fermion
 
-NAME is a super-compact binary encoding format ideal for constrained no_std environments.
+[Documentation](https://docs.rs/fermion/)
+
+Fermion is a super-compact binary encoding format ideal for constrained no_std environments.
 
 # Support
 
-Being generally thought to be used in no_std environments, NAME for now does not support allocations.
+Being generally thought to be used in no_std environments, fermion, for now does not support allocations.
 
 Supported
 
