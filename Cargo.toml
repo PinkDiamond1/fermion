@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Kristoffer Ström <kristoffer@dusk.network>"]
 edition = "2018"
 description = "A super-compact binary encoding format ideal for constrained no_std environments."
+documentation = "https://docs.rs/fermion/"
+repository = "https://github.com/dusk-network/fermion"
 license = "MPL-2.0"
 tags = ["serde", "no_std", "encoding", "binary"]
 
